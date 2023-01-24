@@ -5,8 +5,8 @@ const CodeInput = () => {
     
     return (
             <div className="code-input">
-                <div className="code">1</div>
-                <div className="code">2</div>
+                <div className="code">8</div>
+                <div className="code">9</div>
                 
                 <div className="delimeter"></div>
 
