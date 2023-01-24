@@ -1,0 +1,8 @@
+.App {
+  margin: auto;
+  height: 100vh;
+  text-align: center;
+  max-width: 800px;
+
+  background-color: bisque;
+}
