@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/qr-reader/static/css/main.964fdded.css",
+    "main.js": "/qr-reader/static/js/main.17fbb52c.js",
+    "index.html": "/qr-reader/index.html",
+    "main.964fdded.css.map": "/qr-reader/static/css/main.964fdded.css.map",
+    "main.17fbb52c.js.map": "/qr-reader/static/js/main.17fbb52c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.964fdded.css",
+    "static/js/main.17fbb52c.js"
+  ]
+}
