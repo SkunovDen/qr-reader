@@ -2,7 +2,6 @@
 @media all and (orientation : portrait) {
     
     .wrapper{
-
         display: grid;
         grid-template-columns: 1;
         grid-template-rows: 1fr 1fr;
@@ -28,46 +27,5 @@
         height: 45vh;
         padding: 11px;
     }
-
-
 }
 
-
-@media (max-width: 224px) {
-    .scan{
-        width: 100px;
-        height: 100px;
-        margin: auto;
-        background-color: blue;
-    }
-}
-
-@media (max-width: 324px) {
-    .scan{
-        width: 200px;
-        height: 200px;
-        margin: auto;
-        background-color: green;
-    }
-}
-
-
-/* @media (max-width: 424px) {
-    .scan{
-        width: 300px;
-        height: 300px;
-        margin: auto;
-        background-color: red;
-    }
-} */
-
-@media (min-width : 425px) {
-    .scan{
-        width: 400px;
-        height: 400px;
-        margin: auto;
-        background-color: black;
-    }
-}
-
-    
