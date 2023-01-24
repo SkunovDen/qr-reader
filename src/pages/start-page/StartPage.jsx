@@ -1,16 +1,18 @@
 import React from "react";
+import TempMenu from "../../components/temp-menu/TempMenu";
 import './StartPage.css';
 
 const StartPage = () => {
     return (
         <div className="wrapper">
-            empty
+            <TempMenu />
             <hr></hr>
 
             <h3>
                 Greetings
             </h3>
             <h4> 
+                start
                 app description 
                 and disclaimer if necessary.
             </h4>
