@@ -11,15 +11,12 @@
         margin-right: auto;
         height: 100vh;
 
-        padding: 11px;
-
-        background-color: blue;
     }
 
     .scan-preview{
         
         background-color: yellow;
-        height: 45h;
+        height: 45vh;
 
     }
 
