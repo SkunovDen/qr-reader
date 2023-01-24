@@ -1,0 +1,73 @@
+
+@media all and (orientation : portrait) {
+    
+    .wrapper{
+
+        display: grid;
+        grid-template-columns: 1;
+        grid-template-rows: 1fr 1fr;
+
+        width: 100vw;
+        max-width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+        height: 100vh;
+
+        background-color: blue;
+    }
+
+    .scan-preview{
+        padding: 11px;
+        background-color: yellow;
+        height: 45h;
+
+    }
+
+    .result-preview{
+        background-color: gray;
+        height: 45vh;
+        padding: 11px;
+    }
+
+
+}
+
+
+@media (max-width: 224px) {
+    .scan{
+        width: 100px;
+        height: 100px;
+        margin: auto;
+        background-color: blue;
+    }
+}
+
+@media (max-width: 324px) {
+    .scan{
+        width: 200px;
+        height: 200px;
+        margin: auto;
+        background-color: green;
+    }
+}
+
+
+/* @media (max-width: 424px) {
+    .scan{
+        width: 300px;
+        height: 300px;
+        margin: auto;
+        background-color: red;
+    }
+} */
+
+@media (min-width : 425px) {
+    .scan{
+        width: 400px;
+        height: 400px;
+        margin: auto;
+        background-color: black;
+    }
+}
+
+    

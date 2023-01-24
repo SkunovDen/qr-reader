@@ -1,11 +1,10 @@
 import './App.css';
+import ScanPage from './pages/ScanPage';
 
 function App() {
   return (
     <div className="App">
-     empty
-     <hr></hr>
-     deploy test
+      <ScanPage />
     </div>
   );
 }
