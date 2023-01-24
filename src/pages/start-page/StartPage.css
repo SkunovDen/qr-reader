@@ -1,0 +1,15 @@
+
+@media all and (orientation : portrait) {
+    
+    .wrapper{
+        display: block;
+        width: 100vw;
+        max-width: 500px;
+        margin-left: auto;
+        margin-right: auto;
+        height: 100vh;
+
+        background-color: blue;
+    }
+}
+
