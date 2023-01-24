@@ -1,12 +1,13 @@
 import React from "react";
 import './ScanPage.css';
 import CodeInput from '../../components/code-input/CodeInput';
+import TempMenu from "../../components/temp-menu/TempMenu";
 
 const ScanPage = () => {
     return (
         <div className="wrapper">
             <div className="scan-preview">
-                empty
+                <TempMenu />
                 <hr></hr>
                 SCAN CODE
                 <div className="scan">

@@ -1,12 +1,13 @@
 import React from "react";
 import './ResultPage.css';
 import CodeInput from '../../components/code-input/CodeInput';
+import TempMenu from "../../components/temp-menu/TempMenu";
 
 
 const ResultPage = () => {
     return (
         <div className="wrapper">
-            empty
+            <TempMenu />
             <hr></hr>
 
             <h3>
