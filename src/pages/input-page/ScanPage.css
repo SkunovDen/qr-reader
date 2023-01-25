@@ -1,4 +1,4 @@
-@media all and (orientation : portrait) {
+@media all and (orientation : portrait), (max-width:500px) {
     
     .wrapper{
         display: grid;
